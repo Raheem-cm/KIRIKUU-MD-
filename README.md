@@ -24,7 +24,7 @@
 
   <!-- Get Session Button -->
   <a href="https://lezkush.onrender.com" target="_blank">
-    <img 1" src="https://img.shields.io/badge 🇹🇿_GET_KIRIKUU_SESSION-000000?style=for-the-badge&logo=Ferrari&logoColor=gold&color=black" width="260" height="50"/>
+    <img 1" src="https://img.shields.io/badge/🇹🇿_GET_KIRIKUU_SESSION-000000?style=for-the-badge&logo=Ferrari&logoColor=gold&color=black" width="260" height="50"/>
  </a>
   _______________
 </p>
